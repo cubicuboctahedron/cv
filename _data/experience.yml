@@ -1,19 +1,21 @@
 # Jobs
-# Springfield Nuclear Power Plant
-- company: Springfield Nuclear Power Plant
-  position: Safety Inspector
-  duration: Nov, 1980 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+# Zitemedia
+- company: Zitemedia
+  url: http://www.zitemedia.com
+  position: Head of Development
+  duration: Mar, 2014 &mdash; Present
+  summary: Responsible for technical stuff.
 
-# Windmill Crank Operator
-- company: Sir Putt-A-Lot's Merrie Olde Fun Centre
-  position: Safety Inspector
-  duration:  Jun, 1978 &mdash; Sept, 1979
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Lissi-Soft
+- company: LISSI-Soft
+  url: http://www.lissi.ru
+  position: Systems Software Engineer
+  duration:  Mar, 2010 &mdash; Aug, 2013
+  summary: Responsible for crossplatform firewall and multiple other security-related application development and client support.
 
-
-# Front Desk Attendant
-- company: Simpson Lazer Tag
-  position: Front Desk Attendant
-  duration:   Jun, 1975  &mdash; May, 1978
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+# Keldysh Institute of Applied Mathematics
+- company: Keldysh Institute of Applied Mathematics
+  url: http://www.keldysh.ru
+  position: Software Engineer Intern
+  duration:   Sep, 2009  &mdash; Feb, 2010
+  summary: Responsible for creation of cross-platform GUI for an scientific application.
