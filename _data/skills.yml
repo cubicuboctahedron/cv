@@ -1,26 +1,14 @@
 - skill: Programming Languages
   description: Python 2/3, Javascript ES5/ES6, TypeScript, C, C++
 
+- skill: Web & Mobile Development
+  description: Django, Flask, Angular, Meteor, Ionic 1/2, JQuery, HTML, CSS (LESS/SASS), Bootstrap, Material Design
+
 - skill: OS
-  description: Linux, Mac OS X
+  description: Unix/Linux, Mac OS X
 
 - skill: Virtualization
   description: Docker, Vagrant, Proxmox, LXC, OpenVZ
-
-- skill: Web Development
-  description: Django, Flask, Angular, Meteor, JQuery, HTML, CSS (LESS/SASS), Bootstrap, Material Design
-
-- skill: Mobile Development
-  description: Ionic 1/2
-
-- skill: Databases
-  description: Postgres, MongoDB, Mysql
-
-- skill: API Integrations
-  description: Google API, Amazon, Trello, Stripe, Authorize.net, GoPay
-
-- skill: Web Scraping
-  description: Scrapy
 
 - skill: Utilities
   description: Git, Subversion, Webpack, Grunt, Bower, CMake, Fabric, Vim
