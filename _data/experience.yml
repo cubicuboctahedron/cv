@@ -4,18 +4,25 @@
   url: http://www.zitemedia.com
   position: Head of Development
   duration: Mar, 2014 &mdash; Present
-  summary: Responsible for technical stuff.
+  duties: 
+    - Developed multiple web pages and applications using Django, Flask, Angular and Meteor frameworks
+    - Developed mobile applications using Ionic framework
+    - Implemented own PaaS Docker-based hosting for company needs
+    - Set up continuous integration using Jenkins and Gitlab
 
 # Lissi-Soft
 - company: LISSI-Soft
   url: http://www.lissi.ru
   position: Systems Software Engineer
-  duration:  Mar, 2010 &mdash; Aug, 2013
-  summary: Responsible for crossplatform firewall and multiple other security-related application development and client support.
+  duration: Mar, 2010 &mdash; Aug, 2013
+  duties: 
+    - Part of the cross-platform firewall development team, responsible for core and administration tools development, hardware and user support
+    - Added GOST cryptography support to the nGINX web server
 
 # Keldysh Institute of Applied Mathematics
 - company: Keldysh Institute of Applied Mathematics
   url: http://www.keldysh.ru
   position: Software Engineer Intern
-  duration:   Sep, 2009  &mdash; Feb, 2010
-  summary: Responsible for creation of cross-platform GUI for an scientific application.
+  duration: Sep, 2009  &mdash; Feb, 2010
+  duties: 
+    - Responsible for creation of cross-platform GUI for an scientific application.

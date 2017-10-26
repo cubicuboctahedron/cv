@@ -1,14 +1,5 @@
-- skill: Programming Languages
-  description: Python 2/3, Javascript ES5/ES6, TypeScript, C, C++
+- skill: Technical Skills
+  description: Python, Javascript, TypeScript, C, C++, Django, Flask, Angular, Meteor, Ionic, LESS, SASS, Webpack, Grunt, Fabric, Docker
 
-- skill: Web & Mobile Development
-  description: Django, Flask, Angular, Meteor, Ionic 1/2, JQuery, HTML, CSS (LESS/SASS), Bootstrap, Material Design
-
-- skill: OS
-  description: Unix/Linux, Mac OS X
-
-- skill: Virtualization
-  description: Docker, Vagrant, Proxmox, LXC, OpenVZ
-
-- skill: Utilities
-  description: Git, Subversion, Webpack, Grunt, Bower, CMake, Fabric, Vim
+- skill: Languages
+  description: Russian (native), English (B2), Czech (B1)

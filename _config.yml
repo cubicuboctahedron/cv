@@ -11,10 +11,10 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Ilya Grishkov"
-resume_title:                   "Web Developer"
+resume_title:                   "Full Stack Web Developer"
 resume_contact_email:           "work@ilyagrishkov.com"
 resume_header_contact_info: "Prague, Czech Republic | work@ilyagrishkov.com"
-resume_header_intro: "<p>I'm a software engineer with 8 years of software development experience.<br>I currently specialize in web application development based on Django and Angular frameworks.<br>My background includes Linux server administering, Linux kernel module development, cross-platform user-level application development with C and C++ languages, QT GUI development and full spectrum of web and mobile application development.</p>"
+resume_header_intro: ""
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
