@@ -22,7 +22,7 @@
                     <p>{{ site.resume_header_contact_info }}</p>
                 </div>
 
-                <div class="title-bar no-print">
+                <div class="title-bar">
 
                     <!-- Your title is also defined in the _config.yml file -->
                     <h2 class="header-title" itemprop="jobTitle">{{ site.resume_title }}</h2>
@@ -31,7 +31,7 @@
                     {% include icon-links.html %}
                 </div>
 
-                <div class="executive-summary no-print" itemprop="description">
+                <div class="executive-summary" itemprop="description">
                     <p>{{ site.data.intro }}</p>
                 </div>
 
@@ -72,6 +72,11 @@
 
                 {% for job in site.data.experience %}
                 <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+                    <div class="resume-item-tags">
+                        {% for technology in job.technologies %}
+                            <span class="tag">{{ technology }}</span>
+                        {% endfor %}
+                    </div>
                     <h3 class="resume-item-title" itemprop="name"><a href="{{ job.url }}">{{ job.company }}</a></h3>
                     <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
                     <ul class="resume-item-list">

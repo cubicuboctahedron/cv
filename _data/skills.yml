@@ -1,5 +1,5 @@
 - skill: Technical Skills
-  description: Python, Javascript, TypeScript, C, C++, Django, Flask, Angular, Meteor, Ionic, LESS, SASS, Webpack, Grunt, Fabric, Docker
+  description: Python, Javascript, TypeScript, Django, Flask, Angular, Redux, Meteor, Ionic, CSS /LESS/SCSS, Webpack, Docker, Kubernetes, Cloud Firestore, GCP, AWS, Jenkins
 
 - skill: Languages
-  description: Russian (native), English (B2), Czech (B1)
+  description: English (B2), Czech (B1), Russian (native)

@@ -43,8 +43,8 @@ resume_social_links:
   resume_linkedin_url:          "https://www.linkedin.com/in/igrishkov"
   # resume_hackerrank_url:        "https://www.hackerrank.com/qbqb8hedron"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://www.ilyagrishkov.com"
-resume_print_social_links:      true
+  resume_website_url:           "http://ilyagrishkov.com"
+resume_print_social_links:      false
 
 # Design settings
 resume_theme:                   default

@@ -1,4 +1,27 @@
 # Jobs
+# Aktis
+- company: Aktis
+  url: https://www.aktisintel.com
+  position: Full-Stack developer
+  duration: May, 2018 &mdash; Apr, 2020
+  duties: 
+    - Started as a full-stack developer and eventually moved to a team lead position
+    - Developed an authentication solution using Cloud Firestore and custom Django ORM binding
+    - Sketched out numerous application features and infrastructure changes
+    - Took responsibility of the infrastructure and release process improvements
+    - Managed a scrum team of 5 full-stack developers
+    - Took an active part in the recruitment process
+  technologies:
+    - Python
+    - Django
+    - Angular
+    - Redux
+    - Jenkins
+    - Docker
+    - Kubernetes
+    - GCP
+    - Cloud Firestore
+
 # Zitemedia
 - company: Zitemedia
   url: http://www.zitemedia.com
@@ -9,6 +32,17 @@
     - Developed mobile applications using Ionic framework
     - Implemented own PaaS Docker-based hosting for company needs
     - Set up continuous integration using Jenkins and Gitlab
+  technologies:
+    - Python
+    - Django
+    - Angular
+    - AngularJS
+    - Flask
+    - Ionic
+    - Meteor
+    - Jenkins
+    - Docker
+    - AWS
 
 # Lissi-Soft
 - company: LISSI-Soft
@@ -18,11 +52,18 @@
   duties: 
     - Part of the cross-platform firewall development team, responsible for core and administration tools development, hardware and user support
     - Added GOST cryptography support to the nGINX web server
+  technologies:
+    - C
+    - C++
+    - Qt
 
 # Keldysh Institute of Applied Mathematics
 - company: Keldysh Institute of Applied Mathematics
-  url: http://www.keldysh.ru
+  url: https://www.keldysh.ru
   position: Software Engineer Intern
   duration: Sep, 2009  &mdash; Feb, 2010
   duties: 
-    - Responsible for creation of cross-platform GUI for an scientific application.
+    - Responsible for creation of cross-platform GUI for a scientific application.
+  technologies:
+    - C++
+    - Qt

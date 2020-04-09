@@ -61,7 +61,7 @@
       text-align: center;
       margin: 0 0 .5rem;
 
-      @include media_larger_than_mobile {
+      @include media_larger_than_mobile_or_print {
         float: left;
         margin: 0;
       }
@@ -83,7 +83,7 @@
   border-top: 2px solid #c7c7c7;
   padding-top: .4rem;
 
-  @include media_larger_than_mobile {
+  @include media_larger_than_mobile_or_print {
     float: right;
     border-top: none;
     padding-top: 0;
@@ -168,6 +168,23 @@
 
 
   .resume-item-copy { margin: .75rem 0 0; }
+
+  .resume-item-tags {
+    float: right;
+    .tag {
+        @include sans_bold;
+        display: inline-block;
+        padding: .4em .5em;
+        margin-right: .3em;
+        font-size: 65%;
+        line-height: 1;
+        text-align: center;
+        white-space: nowrap;
+        vertical-align: baseline;
+        border-radius: .25rem; 
+        border: #06476F 1px solid;
+    }
+  }
 }
 
 // footer styles
