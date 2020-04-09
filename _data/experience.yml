@@ -10,7 +10,6 @@
     - Sketched out numerous application features and infrastructure changes
     - Took responsibility of the infrastructure and release process improvements
     - Managed a scrum team of 5 full-stack developers
-    - Took an active part in the recruitment process
   technologies:
     - Python
     - Django
@@ -25,8 +24,23 @@
 # Zitemedia
 - company: Zitemedia
   url: http://www.zitemedia.com
+  position: Technology Consultant
+  duration: May, 2018 &mdash; Present
+  duties: 
+    - Software development consultation and infrastructure maintenance
+  technologies:
+    - Python
+    - Django
+    - Angular
+    - Gitlab
+    - Docker
+    - AWS
+
+# Zitemedia
+- company: Zitemedia
+  url: http://www.zitemedia.com
   position: Head of Development
-  duration: Mar, 2014 &mdash; Present
+  duration: Mar, 2014 &mdash; May 2018
   duties: 
     - Developed multiple web pages and applications using Django, Flask, Angular and Meteor frameworks
     - Developed mobile applications using Ionic framework
