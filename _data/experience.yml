@@ -8,7 +8,7 @@
     - Started as a full-stack developer and eventually moved to a team lead position
     - Developed an authentication solution using Cloud Firestore and custom Django ORM binding
     - Sketched out numerous application features and infrastructure changes
-    - Took responsibility of the infrastructure and release process improvements
+    - Took responsibility for the infrastructure and release process improvements
     - Managed a scrum team of 5 full-stack developers
   technologies:
     - Python
@@ -27,7 +27,7 @@
   position: Technology Consultant
   duration: May, 2018 &mdash; Present
   duties: 
-    - Software development consultation and infrastructure maintenance
+    - Software development consultancy and infrastructure maintenance
   technologies:
     - Python
     - Django
@@ -65,7 +65,7 @@
   duration: Mar, 2010 &mdash; Aug, 2013
   duties: 
     - Part of the cross-platform firewall development team, responsible for core and administration tools development, hardware and user support
-    - Added GOST cryptography support to the nGINX web server
+    - Added GOST cryptography support to the NGINX web server
   technologies:
     - C
     - C++
