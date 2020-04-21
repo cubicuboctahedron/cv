@@ -1,6 +1,7 @@
 # Jobs
 # Aktis
 - company: Aktis
+  location: Prague, Czechia
   url: https://www.aktisintel.com
   position: Full-Stack developer
   duration: May, 2018 &mdash; Apr, 2020
@@ -23,6 +24,7 @@
 
 # Zitemedia
 - company: Zitemedia
+  location: Prague, Czechia
   url: http://www.zitemedia.com
   position: Technology Consultant
   duration: May, 2018 &mdash; Present
@@ -38,13 +40,14 @@
 
 # Zitemedia
 - company: Zitemedia
+  location: Prague, Czechia
   url: http://www.zitemedia.com
   position: Head of Development
   duration: Mar, 2014 &mdash; May 2018
   duties: 
     - Developed multiple web pages and applications using Django, Flask, Angular and Meteor frameworks
     - Developed mobile applications using Ionic framework
-    - Implemented own PaaS Docker-based hosting for company needs
+    - Implemented own PaaS Docker-based hosting for the company needs
     - Set up continuous integration using Jenkins and Gitlab
   technologies:
     - Python
@@ -60,6 +63,7 @@
 
 # Lissi-Soft
 - company: LISSI-Soft
+  location: Moscow, Russia
   url: http://www.lissi.ru
   position: Systems Software Engineer
   duration: Mar, 2010 &mdash; Aug, 2013
@@ -73,6 +77,7 @@
 
 # Keldysh Institute of Applied Mathematics
 - company: Keldysh Institute of Applied Mathematics
+  location: Moscow, Russia
   url: https://www.keldysh.ru
   position: Software Engineer Intern
   duration: Sep, 2009  &mdash; Feb, 2010

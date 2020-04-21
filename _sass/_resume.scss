@@ -148,6 +148,11 @@
     &.award-title {
       font-size: 1rem;
     }
+
+    .resume-item-location {
+        float: right;
+        font-size: 1rem;
+    }
   }
 
   .resume-item-title,
@@ -241,6 +246,10 @@
       margin: 0;
       line-height: .7em;
       font-style:italic;
+
+        .resume-item-location {
+            font-size: inherit;;
+        }
     }
   }
 }

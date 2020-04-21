@@ -13,7 +13,7 @@ resume_avatar:                  "true"
 resume_name:                    "Ilya Grishkov"
 resume_title:                   "Full-Stack Web Developer"
 resume_contact_email:           "work@ilyagrishkov.com"
-resume_header_contact_info: "Prague, Czech Republic | work@ilyagrishkov.com"
+resume_header_contact_info:     "work@ilyagrishkov.com"
 resume_header_intro: ""
 
 # use "yes" to display the email contact button,
@@ -39,7 +39,7 @@ resume_social_links:
   resume_github_url:            "https://github.com/cubicuboctahedron"
   # resume_twitter_url:           "http://twitter.com/jglovier"
   # resume_dribbble_url:          "https://dribbble.com/jag"
-  resume_facebook_url:          "https://www.facebook.com/igrishkov"
+  # resume_facebook_url:          "https://www.facebook.com/igrishkov"
   resume_linkedin_url:          "https://www.linkedin.com/in/igrishkov"
   # resume_hackerrank_url:        "https://www.hackerrank.com/qbqb8hedron"
   # resume_instagram_url:         "insert your Instagram URL here"
