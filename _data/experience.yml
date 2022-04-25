@@ -1,4 +1,21 @@
 # Jobs
+# Wargaming
+- company: Wargaming Prague
+  location: Prague, Czechia
+  url: https://prague.wargaming.com/
+  position: Python developer
+  duration: July, 2020 &mdash; Present
+  duties: 
+    - Successfully completed multiple company projects combining a Python developer and technical product owner roles
+    - Led the rework of one of the main title's subsystems which improved the server performance and unblocked multiple other features
+    - Took over a project and successfully led it through multiple relaunches despite the team having no prior experience and a very limited budget
+
+  technologies:
+    - Python
+    - Flask
+    - Django
+    - React
+
 # Aktis
 - company: Aktis
   location: Prague, Czechia
@@ -10,7 +27,6 @@
     - Developed an authentication solution using Cloud Firestore and custom Django ORM binding
     - Sketched out numerous application features and infrastructure changes
     - Took responsibility for the infrastructure and release process improvements
-    - Managed a scrum team of 5 full-stack developers
   technologies:
     - Python
     - Django
@@ -26,10 +42,10 @@
 - company: Zitemedia
   location: Prague, Czechia
   url: http://www.zitemedia.com
-  position: Technology Consultant
+  position: Technical Advisor
   duration: May, 2018 &mdash; Jun, 2020
   duties: 
-    - Software development consultancy and infrastructure maintenance
+    - Software development advisory, technical specification preparation and infrastructure maintenance
   technologies:
     - Python
     - Django
@@ -45,9 +61,9 @@
   position: Head of Development
   duration: Mar, 2014 &mdash; May 2018
   duties: 
-    - Developed multiple web pages and applications using Django, Flask, Angular and Meteor frameworks
-    - Developed mobile applications using Ionic framework
-    - Implemented own PaaS Docker-based hosting for the company needs
+    - Technical design and development of multiple web pages and applications using Django, Flask, Angular and Meteor frameworks
+    - Developed multiple mobile applications using Ionic framework
+    - Implemented a PaaS Docker-based hosting for the company needs
     - Set up continuous integration using Jenkins and Gitlab
   technologies:
     - Python
@@ -68,7 +84,7 @@
   position: Systems Software Engineer
   duration: Mar, 2010 &mdash; Aug, 2013
   duties: 
-    - Part of the cross-platform firewall development team, responsible for core and administration tools development, hardware and user support
+    - Worked as a part of the cross-platform firewall development team, responsible for core and administration tools development, hardware and user support
     - Added GOST cryptography support to the NGINX web server
   technologies:
     - C
@@ -82,7 +98,7 @@
   position: Software Engineer Intern
   duration: Sep, 2009  &mdash; Feb, 2010
   duties: 
-    - Responsible for creation of cross-platform GUI for a scientific application.
+    - Developed a cross-platform GUI for a scientific application.
   technologies:
     - C++
     - Qt
