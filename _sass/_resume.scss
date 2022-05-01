@@ -4,7 +4,7 @@
 // util
 
 .section-header {
-  @include section_border;
+  @include section_border_bottom;
   margin-bottom: 1.5rem;
 
   h2 {
@@ -38,7 +38,7 @@
     text-align: center;
     letter-spacing: -.15rem;
     line-height: 1;
-    margin: 0.5rem 0 0.5rem;
+    margin: 1rem 0 0.5rem;
   }
 
   .header-contact-info {
@@ -64,10 +64,6 @@
       letter-spacing: -.05rem;
       text-align: center;
       margin: 0 0 .5rem;
-
-      @include media_larger_than_mobile_or_print {
-        margin: 0;
-      }
     }
   }
 
@@ -80,15 +76,12 @@
   margin: 0;
   padding: 0;
   list-style: none;
-  position: relative;
-  top: 4px;
+  position: absolute;
+  top: 24px;
   text-align: center;
-  border-top: 2px solid #c7c7c7;
-  padding-top: .4rem;
 
   @include media_larger_than_mobile_or_print {
-    position: absolute;
-    border-top: none;
+    padding-top: .4rem;
     top: 1.5rem;
   }
 
@@ -131,9 +124,21 @@
 // resume content styles
 
 .content-section {
-  margin: 0 0 3rem;
+  margin: 0 0 2rem;
 
-  .resume-item { margin-bottom: 2rem; }
+  .resume-item {
+    margin-bottom: 2rem;
+
+    .resume-item-wrapper {
+      display: flex;
+      flex-direction: column-reverse;
+
+      @include media_larger_than_mobile_or_print {
+        display: unset;
+        flex-direction: unset;
+      }
+    }
+  }
 
   .resume-item-title {
     @include sans_bold;
@@ -146,10 +151,19 @@
   .resume-item-details {
     font-size: 1.125rem;
     margin: 0 0 .75rem;
-    line-height: 1;
+    line-height: 1.2;
 
     &.award-title {
       font-size: 1rem;
+    }
+
+    & > .delimiter::after {
+      content: "\a";
+      white-space: pre;
+
+      @include media_larger_than_mobile_or_print {
+        content: " \02022 ";
+      }
     }
 
     .resume-item-location {
@@ -232,7 +246,7 @@
     }
   }
   .section-header {
-    @include section_border_thin;
+    @include section_border_bottom_thin;
     margin-bottom: 1rem;
     h2 { font-size: 1.2rem; line-height: 1.5rem; }
   }

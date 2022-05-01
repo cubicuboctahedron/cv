@@ -75,14 +75,18 @@
 
                 {% for job in site.data.experience %}
                 <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+                  <div class="resume-item-wrapper">
                     <div class="resume-item-tags">
-                        {% for technology in job.technologies %}
-                            <span class="tag">{{ technology }}</span>
-                        {% endfor %}
+                      {% for technology in job.technologies %}
+                      <span class="tag">{{ technology }}</span>
+                      {% endfor %}
                     </div>
-                    <h3 class="resume-item-title" itemprop="name"><a href="{{ job.url }}">{{ job.company }}</a></h3>
-                <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}
-                    <span class="resume-item-location">{{ job.location }}</span>
+                    <div class="resume-item-title-wrapper">
+                      <h3 class="resume-item-title" itemprop="name"><a href="{{ job.url }}">{{ job.company }}</a></h3>
+                      <h4 class="resume-item-details" itemprop="description">{{ job.position }}<span class="delimiter"></span>{{ job.duration }}
+                        <span class="resume-item-location">{{ job.location }}</span>
+                    </div>
+                  </div>
                 </h4>
                     <ul class="resume-item-list">
                     {% for duty in job.duties %}
@@ -107,7 +111,7 @@
                 {% for education in site.data.education %}
                 <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/CollegeOrUniversity">
                     <h3 class="resume-item-title" itemprop="name">{{ education.uni }}</h3>
-                    <h4 class="resume-item-details group" itemprop="description">{{ education.degree }} &bull; {{ education.year }}
+                    <h4 class="resume-item-details group" itemprop="description">{{ education.degree }}<span class="delimiter"></span>{{ education.year }}
                         <span class="resume-item-location">{{ education.location }}</span>
                     </h4>
                     <h5 class="resume-item-details award-title" itemprop="description">{{ education.awards }}</h5>

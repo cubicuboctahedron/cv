@@ -115,3 +115,8 @@
   border-bottom: 1px solid #c7c7c7;
   padding: .2rem 0 .2rem;
 }
+
+@mixin section_border_bottom_thin {
+  border-bottom: 1px solid #c7c7c7;
+  padding-bottom: .2rem;
+}
