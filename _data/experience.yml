@@ -1,14 +1,15 @@
 # Jobs
 # Wargaming
-- company: Wargaming Prague
+- company: Wargaming
   location: Prague, Czechia
   url: https://prague.wargaming.com/
   position: Python developer
   duration: July, 2020 &mdash; Present
   duties: 
+    - Led the rework of one of the main title's subsystems which decreased the peak server load by 14% and unblocked multiple other features
+    - Took over a project and successfully released multiple different versions despite the team having no prior technical experience and a very limited budget
+    - Gathered requirements, designed the architecture and communicated the development and release of multiple complex projects across different departments and locations
     - Successfully completed multiple company projects combining a Python developer and technical product owner roles
-    - Led the rework of one of the main title's subsystems which improved the server performance and unblocked multiple other features
-    - Took over a project and successfully led it through multiple relaunches despite the team having no prior experience and a very limited budget
 
   technologies:
     - Python
