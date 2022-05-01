@@ -20,6 +20,7 @@
 
 .page-header { 
   padding: 1.5rem 0 0.5rem;
+  position: relative;
 
   .avatar {
     width: 150px;
@@ -42,8 +43,10 @@
 
   .header-contact-info {
     @include sans;
-    text-align: center;
+    position: absolute;
+    right: 0;
   }
+
   .header-contact-info p a {
     color: inherit;
   }
