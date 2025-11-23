@@ -3,27 +3,31 @@
 - company: Wargaming
   location: Prague, Czechia
   url: https://prague.wargaming.com/
-  position: Python developer
+  position: Senior Python Developer / Team Lead
   duration: July, 2020 &mdash; Present
-  duties: 
+  duties:
+    - Lead team of 3 developers while maintaining hands-on development role (Dec 2024 - Present, ~50% time hands-on) - architecture decisions, code reviews, technical problem-solving, mentoring, 1-on-1s, and performance reviews
+    - Led Django/Python modernization of one the company's largest web services from Django 1.6/Python 2.7 to Django 4.2/Python 3.11 across a 10-year-old project, making it one of the most modern systems in the company
     - Led the rework of one of the main title's subsystems which decreased the peak server load by 14% and unblocked multiple other features
-    - Took over a project and successfully released multiple different versions despite the team having no prior technical experience and a very limited budget
-    - Gathered requirements, designed the architecture and communicated the development and release of multiple complex projects across different departments and locations
-    - Successfully completed multiple company projects combining a Python developer and technical product owner roles
+    - Took over troubled project and successfully released multiple versions despite team having no prior technical experience and very limited budget
 
   technologies:
     - Python
     - Flask
     - Django
     - React
+    - MySQL
+    - Redis
+    - Docker
+    - TeamCity
 
 # Aktis
 - company: Aktis
   location: Prague, Czechia
   url: https://www.aktisintel.com
-  position: Full-Stack developer
+  position: Full-Stack Developer / Team Lead
   duration: May, 2018 &mdash; Apr, 2020
-  duties: 
+  duties:
     - Started as a full-stack developer and eventually moved to a team lead position
     - Developed an authentication solution using Cloud Firestore and custom Django ORM binding
     - Sketched out numerous application features and infrastructure changes
@@ -43,25 +47,9 @@
 - company: Zitemedia
   location: Prague, Czechia
   url: http://www.zitemedia.com
-  position: Technical Advisor
-  duration: May, 2018 &mdash; Jun, 2020
-  duties: 
-    - Software development advisory, technical specification preparation and infrastructure maintenance
-  technologies:
-    - Python
-    - Django
-    - Angular
-    - Gitlab
-    - Docker
-    - AWS
-
-# Zitemedia
-- company: Zitemedia
-  location: Prague, Czechia
-  url: http://www.zitemedia.com
-  position: Head of Development
+  position: Lead Developer
   duration: Mar, 2014 &mdash; Apr 2018
-  duties: 
+  duties:
     - Technical design and development of multiple web pages and applications using Django, Flask, Angular and Meteor frameworks
     - Developed multiple mobile applications using Ionic framework
     - Implemented a PaaS Docker-based hosting for the company needs
@@ -70,11 +58,11 @@
     - Python
     - Django
     - Angular
-    - AngularJS
     - Flask
     - Ionic
     - Meteor
     - Jenkins
+    - Gitlab
     - Docker
     - AWS
 
@@ -84,7 +72,7 @@
   url: http://www.lissi.ru
   position: Systems Software Engineer
   duration: Mar, 2010 &mdash; Aug, 2013
-  duties: 
+  duties:
     - Worked as a part of the cross-platform firewall development team, responsible for core and administration tools development, hardware and user support
     - Added GOST cryptography support to the NGINX web server
   technologies:
@@ -98,7 +86,7 @@
   url: https://www.keldysh.ru
   position: Software Engineer Intern
   duration: Sep, 2009  &mdash; Feb, 2010
-  duties: 
+  duties:
     - Developed a cross-platform GUI for a scientific application
   technologies:
     - C++
